@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+h2{
+    padding-left: 50px;
+}
+table{
+    padding: 2px;
+    height: 350px;
+    width: 400px;
+
+}
+div{
+    margin-left: 100px;
+}
+thead th{
+    background-color: rgb(171, 171, 171);
+}
+
+#imagem{
+    margin: 0 auto;
+    width: 50%;
+}
